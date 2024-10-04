@@ -64,7 +64,7 @@ In this case, since we are working over a four-month window, the first two month
 
 ## Dataset and Data Dictionary
 
-The dataset can be downloaded from [here](https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view).
+The dataset can be downloaded from [here]([https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view](https://docs.google.com/spreadsheets/d/1rcPCJq3Lchhthmf5ga8oHpFSOZG6E-ny/edit?usp=drive_link&ouid=117000481189855883068&rtpof=true&sd=true)).
 
 Data dictionary is uploaded. The data dictionary contains meanings of abbreviations. Some frequent ones are loc (local), IC (incoming), OG (outgoing), T2T (telecom operator to telecom operator), T2O (telecom operator to another operator), RECH (recharge) etc.
 
